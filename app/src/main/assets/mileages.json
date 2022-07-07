@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "conversionName": "Miles per gallon",
+    "abbreviation": "mpg",
+    "rate": 1
+  },
+
+  {
+    "id": 2,
+    "conversionName": "Kilometre per litre",
+    "abbreviation": "kmpl",
+    "rate": 0.425
+  },
+
+  {
+    "id": 3,
+    "conversionName": "Litre per 100km",
+    "abbreviation": "lp100km",
+    "rate": 235.215
+  }
+]
